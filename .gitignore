@@ -1,0 +1,45 @@
+# IGNORE
+# ssh keys
+*id_rsa*
+*id_dsa*
+authorized_keys*
+IAM*
+.DS_Store
+.vscode
+original/*
+sensors/*.ps1
+sensors/*.py
+sensors/*.sh
+templates/*
+test/*
+tst/*
+installers/*
+UNUSED/*
+ResourcesUnused/*
+Resources/*.txt
+Resources/*/notUsed
+ResourcesUnused
+latestcheck.json
+*.png
+*.jpg
+*.bmp
+*.ico
+*.icns
+
+# Distribution / packaging
+*.zip
+*.exe
+*.dmg
+
+# go modules, we should be able to get all of these any time
+vendor/*
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+
+# ALLOW example
+!packages/7z*
+!installers/*
+!bin/*
