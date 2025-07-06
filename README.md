@@ -11,14 +11,10 @@ A pixel move one right, one down, one left one up will reposition the mouse fast
 than larger numbers and be less invasive with normal use.
 
 Example use: (single - or double dash both work)
-
-./jiggler -jiggle 15 -pixel 1 &
-
-./jiggler -j 10 -p 1 &
-
-./jiggler --j 10 --p 5 &
-
-./jiggler -help | --help | -h | --h
+* ./jiggler -jiggle 15 -pixel 1 &
+* ./jiggler -j 10 -p 1 &
+* ./jiggler --j 10 --p 5 &
+* ./jiggler -help | --help | -h | --h
 
 Daemonization / backgrounding is not provided, use your operating system to pass
 the parameters you want and cause this application to run as a background process.
