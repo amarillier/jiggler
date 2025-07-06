@@ -39,4 +39,4 @@ Do NOT use jiggler when it will violate your security policies in public spaces.
 This is intended for use only in secure, remote, work from home type environments.
 
 In other words, I take no responsibility for how you use this, protect yourself. 
-To be more blunt, **don't be stupid!**
+To be more blunt, _**don't be stupid!**_
