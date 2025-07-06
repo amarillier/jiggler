@@ -1,4 +1,6 @@
 # jiggler
+![KrankyBearBeret](https://github.com/user-attachments/assets/95aef02f-a72c-4b82-aad2-5d2e4b30315a)
+
 This is a simple mouse jiggler.
 
 It requires at least one parameter -jiggle or -j flag usage followed by a time
