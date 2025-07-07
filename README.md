@@ -40,3 +40,4 @@ This is intended for use only in secure, remote, work from home type environment
 
 In other words, I take no responsibility for how you use this, protect yourself. 
 To be more blunt, _**don't be stupid!**_
+Play stupid games, win stupid prizes.
