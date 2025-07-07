@@ -1,7 +1,11 @@
 Release notes
 
 0.1.NEXT
-- maybe add CLI check for update capability, -update flag for example
+-
+
+
+0.1.1
+- added CLI check for update capability, -checkupdate | -cu flag
 -
 
 
