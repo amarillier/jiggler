@@ -34,6 +34,7 @@ This is 100% free for anyone to use or misuse any way you like with no warranty 
 to suitability or anything else, other than it has no viruses when I compile and
 commit to git. But you should always check and scan anything you download from the
 internet for viruses anyway. Don't be reckless.
+All KrankyBear icons, images, logos used are copyright (c) Allan Marillier, 2024, 2025 ...
 
 Do NOT use jiggler when it will violate your security policies in public spaces.
 This is intended for use only in secure, remote, work from home type environments.

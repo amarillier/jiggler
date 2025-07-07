@@ -15,7 +15,7 @@ import (
 	_ "github.com/go-vgo/robotgo/window"
 )
 
-var appVersion = "0.1.1" // see FyneApp.toml
+var appVersion = "0.1.1" // see FyneApp.toml (only relevant in GUI apps using Ftyne libraries)
 var appAuthor = "Allan Marillier"
 var appName = "jiggler"
 var appCopyright = "Copyright (c) Allan Marillier, 2025-" + strconv.Itoa(time.Now().Year())
