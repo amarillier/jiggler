@@ -12,10 +12,14 @@ move the mouse. The default is 1, if less than 1 or greater than 100 are entered
 A pixel move one right, one down, one left one up will reposition the mouse faster
 than larger numbers and be less invasive with normal use.
 
+A -checkupdate or -cu parameter allows checking for updates. This is entirely manual,
+no auto checks, or auto updates will be performed.
+
 Example use: (single - or double dash both work)
 * ./jiggler -jiggle 15 -pixel 1 &
 * ./jiggler -j 10 -p 1 &
 * ./jiggler --j 10 --p 5 &
+* ./jiggler -checkupdate | -cu
 * ./jiggler -help | --help | -h | --h
 
 Daemonization / backgrounding is not provided, use your operating system to pass
@@ -25,8 +29,7 @@ the parameters you want and cause this application to run as a background proces
 
 # To-do / known problems
 - No problems I am aware of
-- One possible addition, one extra flag to add to allow for command line checking for
-updates. e.g. jiggler -checkupdate | jiggler -cu
+- 
 
 
 # License
