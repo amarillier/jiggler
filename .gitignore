@@ -13,12 +13,13 @@ sensors/*.sh
 templates/*
 test/*
 tst/*
-installers/*
 UNUSED/*
 ResourcesUnused/*
 Resources/*.txt
 Resources/*/notUsed
 ResourcesUnused
+*.app
+jiggler
 latestcheck.json
 *.png
 *.jpg
