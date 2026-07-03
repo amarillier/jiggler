@@ -1,11 +1,13 @@
 module jiggler
 
-go 1.24.2
-
-require github.com/go-vgo/robotgo v0.110.8
+go 1.25.0
 
 require (
-	github.com/amarillier/go-update-checker v0.0.3 // indirect
+	github.com/amarillier/go-update-checker v0.0.3
+	github.com/go-vgo/robotgo v0.110.8
+)
+
+require (
 	github.com/dblohm7/wingoes v0.0.0-20240820181039-f2b84150679e // indirect
 	github.com/ebitengine/purego v0.8.3 // indirect
 	github.com/gen2brain/shm v0.1.1 // indirect
@@ -31,6 +33,6 @@ require (
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	golang.org/x/exp v0.0.0-20250506013437-ce4c2cf36ca6 // indirect
 	golang.org/x/image v0.27.0 // indirect
-	golang.org/x/net v0.41.0 // indirect
-	golang.org/x/sys v0.33.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 )
